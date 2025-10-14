@@ -1,0 +1,13 @@
+{
+    "data_root": "data/raw",
+    "input_shape": [224, 224, 3],
+    "num_classes": 5,
+    "batch_size": 4,
+    "epochs": 15,
+    "initial_lr": 0.0001,
+    "weight_decay": 0.01,
+    "dropout_rate": 0.3,
+    "baseline_accuracy": 0.7394,
+    "model_name": "convnext_swin_hybrid_15epochs",
+    "xai_samples": 5
+}

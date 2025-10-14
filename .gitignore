@@ -1,0 +1,10 @@
+﻿data/
+venv/
+__pycache__/
+*.log
+*.h5
+*.keras
+*.csv
+.vscode/
+results/models/
+results/data/*.npy

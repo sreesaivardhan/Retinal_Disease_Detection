@@ -34,7 +34,7 @@ Standard models like ResNet50 or ViT-Base are often too heavy for edge deploymen
 
 ## 3. Complete Setup & Installation
 
-### Step A: Clone and Environment
+### Step A: Clone - Environment
 ```bash
 # Clone the repository
 git clone [https://github.com/sreesaivardhan/Retinal_Disease_Detection.git](https://github.com/sreesaivardhan/Retinal_Disease_Detection.git)
